@@ -11,7 +11,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	79d95a1518e670f2b650fa29b60a5769
-URL:		http://pear.horde.org/package/Horde_Image/
+URL:		https://github.com/horde/horde/tree/master/framework/Image/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.7.0
