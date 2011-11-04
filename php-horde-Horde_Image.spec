@@ -5,12 +5,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Image API
 Name:		php-horde-Horde_Image
-Version:	1.0.6
+Version:	1.0.7
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	43271dd15c53426aeea2314986b99d01
+# Source0-md5:	8cd676d99db0bff05a9724b8f8815e7a
 URL:		https://github.com/horde/horde/tree/master/framework/Image/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
