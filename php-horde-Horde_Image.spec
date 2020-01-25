@@ -2,7 +2,6 @@
 # - system locale dir
 %define		status		stable
 %define		pearname	Horde_Image
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Image API
 Name:		php-horde-Horde_Image
 Version:	1.0.10
