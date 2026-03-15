@@ -5,7 +5,7 @@
 Summary:	%{pearname} - Horde Image API
 Name:		php-horde-Horde_Image
 Version:	1.0.10
-Release:	1
+Release:	2
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
